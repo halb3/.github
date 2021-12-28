@@ -1,5 +1,5 @@
 The following illustration shows the planned structure of the decomposition of [webgl-operate](https://webgl-operate.org/). For now we continue to use haeley-**webgl** and might switch to haeley-**webgpu** later:
-![haeley-overview-v1](https://user-images.githubusercontent.com/3909980/147599765-c1c65bcb-94b4-4108-9173-81816e0f8613.png)
+![haeley-overview-v2](https://user-images.githubusercontent.com/3909980/147601507-9631f562-40a2-4634-ad84-0b1a3577b61d.png)
 Editable figure [available here](https://lucid.app/lucidchart/d736a0a0-ba7e-4aca-b197-08b395cb9459/edit).
 
 ## halb3
